@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Lucas Rocha
+    name: Lucas George Rocha
     tagline: Ruby On Rails Intern
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -57,9 +57,12 @@ education:
     - degree: System Analysis & Development
       university: Faculdade Politécnica de Campinas
       time: 2018 - present
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Study of English from basics to advanced
+      university: CNA IDIOMAS
+      time: 2014 - 2018
+    - degree: Studies of MS Office.
+      university: PEOPLE
+      time: 2015 - 2017
 experiences:
     - role: Web Developer
       time: 2019 - Present
