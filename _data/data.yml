@@ -26,22 +26,25 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Intermediate
+
+      - idiom: Portuguese
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: Basic
+
+      - idiom: Italian
+        level: Basic
 
     interests:
-      - item: Climbing
+      - item: Astronomy
         link:
 
-      - item: Snowboarding
+      - item: Electronics
         link:
 
-      - item: Cooking
+      - item: Reading
         link:
 
 career-profile:
