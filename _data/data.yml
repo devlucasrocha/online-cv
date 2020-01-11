@@ -50,12 +50,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      - Studying programming for almost 3 years (front-end and back-end).
+
+      - After having learnt the basics of programming through Python I felt that was enough to deepen my knowledge, therefore I started studying Java to learn how object-oriented programming works and other concepts that are bit unsual in Python.
+
+      - When I started learning Ruby on Rails I got motivated to also learn tecnologies such as javascript, HTML, CSS, node, databases (SQL) to improve my understanding about the mechanics of that framework.
+
+      - Learning new things on a daily basis motivates me to always seek more knowledge and experience - both of which I would love to grow by applying my skills to a real work environment.
 education:
     - degree: System Analysis & Development
       university: Faculdade Politécnica de Campinas
